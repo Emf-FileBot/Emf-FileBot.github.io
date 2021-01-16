@@ -84,6 +84,8 @@ publishdir = "docs"
 			email = "Email"
 			message = "Message"
 			submit = "Send message"
+	[params.recentposts]
+		hide=false
 
 
 # Menu links that appear on the left sidebar
