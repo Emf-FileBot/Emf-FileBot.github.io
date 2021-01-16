@@ -9,14 +9,5 @@
     <managingEditor>emffile@protonmail.com (Emf-FileBot)</managingEditor>
     <webMaster>emffile@protonmail.com (Emf-FileBot)</webMaster>
     <copyright>(c) 2021 Emf-FileBot.</copyright><atom:link href="https://emf-filebot.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>https://emf-filebot.github.io/test/</link>
-      <pubDate>Sat, 16 Jan 2021 16:21:21 +0800</pubDate>
-      <author>emffile@protonmail.com (Emf-FileBot)</author>
-      <guid>https://emf-filebot.github.io/test/</guid>
-      <description>1145141919810</description>
-    </item>
-    
   </channel>
 </rss>
