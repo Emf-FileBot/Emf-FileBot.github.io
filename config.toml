@@ -1,4 +1,5 @@
-baseurl = "https://emf-filebot.github.io"
+#baseurl = "https://emf-filebot.github.io"
+relativeurls = true
 languageCode = "en-us"
 title = "Strata"
 theme = "hugo-strata-theme"
