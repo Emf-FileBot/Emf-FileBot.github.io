@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emf-FileBot的小站</title>
-    <link>https://emf-filebot.github.io/</link>
-    <description>Recent content on Emf-FileBot的小站</description>
+    <title>技术s on Emf-FileBot的小站</title>
+    <link>https://emf-filebot.github.io/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术s on Emf-FileBot的小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>emffile@protonmail.com (Emf-FileBot)</managingEditor>
     <webMaster>emffile@protonmail.com (Emf-FileBot)</webMaster>
     <copyright>(c) 2021 Emf-FileBot.</copyright>
-    <lastBuildDate>Sat, 16 Jan 2021 16:00:06 +0800</lastBuildDate><atom:link href="https://emf-filebot.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 16:00:06 +0800</lastBuildDate><atom:link href="https://emf-filebot.github.io/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>解决GithubPages不会自动识别index</title>
       <link>https://emf-filebot.github.io/%E6%8A%80%E6%9C%AF/%E8%A7%A3%E5%86%B3githubpages%E4%B8%8D%E4%BC%9A%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%ABindex.html%E7%9A%84%E9%97%AE%E9%A2%98/</link>
