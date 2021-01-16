@@ -53,7 +53,7 @@ publishdir = "docs"
 
 
 	[params.contact]
-		hide  = false
+		hide  = true
 		title = "Get In Touch"
 		content = "别看了，这里没什么用的"
 
