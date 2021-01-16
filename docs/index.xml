@@ -5,16 +5,6 @@
     <link>https://emf-filebot.github.io/</link>
     <description>Recent content on Emf-FileBot的小站</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jan 2021 20:03:00 +0800</lastBuildDate><atom:link href="https://emf-filebot.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>New</title>
-      <link>https://emf-filebot.github.io/post/new/</link>
-      <pubDate>Sat, 16 Jan 2021 20:03:00 +0800</pubDate>
-      
-      <guid>https://emf-filebot.github.io/post/new/</guid>
-      <description>dsadsadsad </description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://emf-filebot.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

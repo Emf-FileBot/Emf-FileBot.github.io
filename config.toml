@@ -27,7 +27,7 @@ publishdir = "docs"
 
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
-		avatar = "avatar.jpg"
+		avatar = "uuz.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "或许这里是一个实验室"
 		# The icons will be shown if you enter your username
@@ -55,14 +55,14 @@ publishdir = "docs"
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		content = "别看了，这里没什么用的"
 
 		address = [
-			"1234 Somewhere Rd.",
-			"Nashville, TN 00000",
-			"United States"
+			"欧亚大陆东部",
+			"第四计算中心",
+			"东亚计算机集群"
 		]
-		phone = "000-000-0000"
+		phone = "1145141919810"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
@@ -75,7 +75,7 @@ publishdir = "docs"
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "hello@example.com"
+		email = "emffile@protonmail.com"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
@@ -93,6 +93,23 @@ publishdir = "docs"
 	weight = 0
 
 [[menu.main]]
-	name = "Blog"
-	url  = "post/"
+	name = "科技"
+	url  = "tech/"
 	weight = 10
+
+[[menu.main]]
+	name = "随想"
+	url  = "think/"
+	weight = 10
+
+
+[[menu.main]]
+	name = "键政"
+	url  = "politics/"
+	weight = 10
+
+[[menu.main]]
+	name = "随笔"
+	url  = "novel/"
+	weight = 10
+
