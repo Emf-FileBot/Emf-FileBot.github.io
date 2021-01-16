@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emf-FileBot的小站</title>
-    <link>https://emf-filebot.github.io/</link>
-    <description>Recent content on Emf-FileBot的小站</description>
+    <title>Novels on Emf-FileBot的小站</title>
+    <link>https://emf-filebot.github.io/novel/</link>
+    <description>Recent content in Novels on Emf-FileBot的小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jan 2021 00:53:12 +0800</lastBuildDate><atom:link href="https://emf-filebot.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jan 2021 00:53:12 +0800</lastBuildDate><atom:link href="https://emf-filebot.github.io/novel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一点构思</title>
       <link>https://emf-filebot.github.io/novel/uuz/%E4%B8%80%E7%82%B9%E6%9E%84%E6%80%9D/</link>
@@ -26,25 +26,6 @@
 那么能不能以西行妖的盛开与幽幽子亡灵的消失作为切入点，写一篇千年组的同人呢？
 我的思路大概是樱花盛开的时候亡灵幽幽子也随之消失（并没有复活，只是消失了），前往轮回中投胎转生到人间之里。在人间之里中长大成人，再次遇见八云紫，两人再次成为朋友，最后幽幽子想起来前世的记忆。
 不过我对设定还不是太了解，需要去再多了解一下（比如把《求闻史记》看完）。</description>
-    </item>
-    
-    <item>
-      <title>解决hugo无法识别默认主页的问题</title>
-      <link>https://emf-filebot.github.io/tech/%E8%A7%A3%E5%86%B3hugo%E6%97%A0%E6%B3%95%E8%AF%86%E5%88%AB%E9%BB%98%E8%AE%A4%E4%B8%BB%E9%A1%B5%E7%9A%84%E9%97%AE%E9%A2%98/</link>
-      <pubDate>Sun, 17 Jan 2021 00:25:59 +0800</pubDate>
-      
-      <guid>https://emf-filebot.github.io/tech/%E8%A7%A3%E5%86%B3hugo%E6%97%A0%E6%B3%95%E8%AF%86%E5%88%AB%E9%BB%98%E8%AE%A4%E4%B8%BB%E9%A1%B5%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
-      <description>起因 GithubPages默认是使用Jekyll作为静态博客的生成器，但是我们搭建博客一般采用的是其他的软件。配置上的差异会导致GithubPages无法识别主页（即index.html），必须手动加上index.html才能访问。
-解决方法 在根目录下面添加名为“.nojekyll”的文件即可（大意是说明这个博客不是用的jekyll来搭建的）。</description>
-    </item>
-    
-    <item>
-      <title>Desc</title>
-      <link>https://emf-filebot.github.io/tech/desc/</link>
-      <pubDate>Sun, 17 Jan 2021 00:06:05 +0800</pubDate>
-      
-      <guid>https://emf-filebot.github.io/tech/desc/</guid>
-      <description></description>
     </item>
     
   </channel>
