@@ -1,4 +1,49 @@
-baseURL = "http://example.org/"
+baseURL = "https://emf-filebot.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Emf-FileBot的小站"
+copyright = "(c) 2021 Emf-FileBot."
+theme = "hyde-y"
 publishdir = "docs"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    code = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+
+[author]
+    name = "Emf-FileBot"
+    email = "emffile@protonmail.com"
+
+[params]
+    # You can use markdown here.
+    brand = "foobar"
+    topline = "记录如火花般出现的灵感"
+    footline = "code with <i class='fa fa-heart'></i>"
+
+    # Sidebar position
+    # false, true, "left", "right"
+    sidebar = "left"
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "home"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "default"
+
+    # Google Analytics.
+  #  googleAnalytics = "Your Google Analytics tracking code"
+
+    # Sidebar social links.
+    github = "Emf-FileBot" # Your Github profile ID
+    #bitbucket = "" # Your Bitbucket profile ID
+    #linkedin = "" # Your LinkedIn profile ID (from public URL)
+    #googleplus = "" # Your Google+ profile ID
+    #facebook = "" # Your Facebook profile ID
+    #twitter = "" # Your Twitter profile ID
+    #youtube = ""  # Your Youtube channel ID
+    #flattr = ""  # populate with your flattr uid
