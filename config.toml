@@ -47,3 +47,14 @@ publishdir = "docs"
     #twitter = "" # Your Twitter profile ID
     #youtube = ""  # Your Youtube channel ID
     #flattr = ""  # populate with your flattr uid
+
+    [blackfriday]
+    angledQuotes = true
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
+
+    
