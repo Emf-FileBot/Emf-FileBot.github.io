@@ -1,5 +1,5 @@
-#baseurl = "https://emf-filebot.github.io"
-relativeurls = true
+baseurl = "https://emf-filebot.github.io/"
+#relativeurls = true
 languageCode = "en-us"
 title = "Emf-FileBot的小站"
 theme = "hugo-strata-theme"
