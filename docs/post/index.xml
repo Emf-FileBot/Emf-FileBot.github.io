@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emf-FileBot的小站</title>
-    <link>/</link>
-    <description>Recent content on Emf-FileBot的小站</description>
+    <title>Posts on Emf-FileBot的小站</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Emf-FileBot的小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jan 2021 20:03:00 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 20:03:00 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New</title>
       <link>/post/new/</link>
