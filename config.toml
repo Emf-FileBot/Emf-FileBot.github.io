@@ -19,7 +19,7 @@ publishdir = "docs"
 
 [params]
     # You can use markdown here.
-    brand = "foobar"
+    brand = "Emf-FileBot的实验室(大雾)"
     topline = "记录如火花般出现的灵感"
     footline = "code with <i class='fa fa-heart'></i>"
 
